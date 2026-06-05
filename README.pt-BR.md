@@ -17,11 +17,9 @@ Os Pets não são apenas companheiros cosméticos. Cada um muda a forma como o j
 
 ## Principais Recursos
 
-- Cada Pet possui uma identidade única de gameplay
-- Nenhuma habilidade é repetida entre Pets
 - Progressão individual por Pet
 - Evolução baseada nas ações realizadas
-- Habilidades passivas, ativas e supremas
+- Habilidades passivas, ativas e supers
 - Estrutura expansível de documentação e configuração
 - Desenvolvido para servidores RPG, Survival e focados em progressão
 
@@ -86,7 +84,6 @@ Auxilia o jogador na exploração de locais escuros, localização de recursos e
 
 ## Desenvolvimento Futuro
 
-- Sistema de níveis e evolução
 - Novos Pets únicos
 - Melhorias de habilidades
 - Carregamento das Super Habilidades
